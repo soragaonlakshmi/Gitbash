@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-    cout<<"THis is main branch\n";
-    cout<<"HELLO WORLD\n";
+    cout<<"THis is sub branch/n";
+    cout<<"U can change anything/n";
 }
